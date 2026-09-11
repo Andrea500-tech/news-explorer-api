@@ -29,12 +29,9 @@ A robust, production-ready RESTful backend API built for the **News Explorer** a
 ## Getting Started & Installation
 
 ### Prerequisites
-
 Make sure you have **Node.js** and **MongoDB** installed on your machine.
 
 ### 1. Clone the Repository
-
 ```bash
-git clone <your-repository-url>
+git clone [https://github.com/Andrea500-tech/news-explorer-api.git](https://github.com/Andrea500-tech/news-explorer-api.git)
 cd news-explorer-api
-```
